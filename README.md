@@ -97,9 +97,60 @@ q -> a lua é feita de queijo (falsa)
 
 ## Predicados
 
+Aquilo que se atribui a algo. Podendo ser:
+
+- propriedades
+- relações
+
+exemplos:
+
+Eu sou um cachorro
+
+- sujeito: eu
+- predicado: sou um cachorro
+
+2 é menor que 3
+
+- sujeito: 2
+- predicado: é menor que 3
+
 ## Funções proposicionais
 
+> x > 3
+
+> x = y + 3
+
+> x + y = z
+
+- são sentenças abertas(sem valor verdade)
+
+Para se tornarem uma função proposicional elas tem de estar desta forma: `p(x)`
+
+> p(x) = x > 3
+
+> p(3) = 3 > 3 = false
+
+> p(5) = 5 > 3 = true
+
 ## Quantificadores
+
+### Universal (∀):
+
+Lê-se: `Para todo`
+
+- dominio vazio:
+
+Geralmente assume-se implicitamente que o universo do discurso não é vazio. Porém, se o domimio for vazio, entao `∀xP(x)` é verdadeira para qualquer função proposicional.
+
+- dominio finito:
+
+Exemplo: `todo caranguejo não é peixe`
+
+### Existencial (∃):
+
+- Exemplo:
+
+`ExP(x)` -> Há pelo menos um `x` tal que `P(x)`
 
 ## Converso, Contrapositivo e inverso
 
