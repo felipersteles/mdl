@@ -1,0 +1,9 @@
+# Teseu e o minotauro
+
+## Desc
+contar mitologia
+
+## Input
+![labirinto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfW5aCOkg9LXavQKwEH0eL6ftwzzFSrzaUAjdccWhbuZaIF9ej1aspE2nFyISkm-I9ZCE&usqp=CAU)
+
+## Output O caminho mais curto para chegar a sala do  minotauro indo de A até P
