@@ -154,6 +154,31 @@ Exemplo: `todo caranguejo não é peixe`
 
 ## Converso, Contrapositivo e inverso
 
+- IF(→):
+
+| p   | q   | p→q | q→p | ~p→~q | ~q→~p |
+| --- | --- | --- | --- | ----- | ----- |
+| t   | t   | t   | t   | t     | t     |
+| t   | f   | f   | t   | t     | f     |
+| f   | t   | t   | f   | f     | t     |
+| f   | f   | t   | t   | t     | t     |
+
+exemplo:
+
+se chover, o time da casa ganha
+se o time da casa não ganha, então não chove (contrapositivo)
+se o time da casa ganha então não chove (converso)
+se não chove, então o time da casa não ganha (inverso)
+
+- IFF(→):
+
+| p   | q   | p→q | q→p | ~p→~q | ~q→~p |
+| --- | --- | --- | --- | ----- | ----- |
+| t   | t   | t   | t   | t     | t     |
+| t   | f   | f   | t   | f     | f     |
+| f   | t   | t   | f   | f     | f     |
+| f   | f   | t   | t   | t     | t     |
+
 ## Tradução de sentanças
 
 Tem como objetivo remover a impresição ou ambiguidades -> fazer uma análise lógica
