@@ -6,18 +6,17 @@ int main()
 
     printf("Num de lados: ");
     scanf("%d", &num);
-    if (num < 105 && num > 3)
+    if (num > 105 || num < 3)
     {
-        // formaula para calcular
-        // o numero de diagonais
-        // em um poligono
-        int res = num * (num - 3) / 2;
-        printf("%d", res);
+        printf("Número fora do domínio");
+        return -1;
     }
-    else
-    {
-        printf("Invalid number");
-    }
+
+    // formaula para calcular
+    // o numero de diagonais
+    // em um poligono
+    int res = num * (num - 3) / 2;
+    printf("%d", res);
 
     return 0;
 }
