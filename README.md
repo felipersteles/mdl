@@ -165,10 +165,10 @@ Exemplo: `todo caranguejo não é peixe`
 
 exemplo:
 
-se chover, o time da casa ganha
-se o time da casa não ganha, então não chove (contrapositivo)
-se o time da casa ganha então não chove (converso)
-se não chove, então o time da casa não ganha (inverso)
+> se chover, o time da casa ganha
+> se o time da casa não ganha, então não chove (contrapositivo)
+> se o time da casa ganha então não chove (converso)
+> se não chove, então o time da casa não ganha (inverso)
 
 - IFF(→):
 
