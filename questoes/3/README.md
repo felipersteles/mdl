@@ -20,4 +20,4 @@ Com a própria força e com o auxílio essencial do Fio de Ariadne, Teseu foi ca
 
 ## Output
 
-O caminho mais curto para chegar a sala do minotauro. Partindo da entrada S e lembrando que o minotauro esta situado em P.
+A arvore geradora minima para a sala do minotauro. Partindo da entrada S e lembrando que o minotauro esta situado em P.
