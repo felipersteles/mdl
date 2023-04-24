@@ -169,7 +169,7 @@ exemplo:
 
 > se o time da casa não ganha, então não chove (contrapositivo)
 
-> se o time da casa ganha então não chove (converso)
+> se o time da casa ganha, então não chove (converso)
 
 > se não chove, então o time da casa não ganha (inverso)
 
